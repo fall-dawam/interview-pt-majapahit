@@ -1,0 +1,12 @@
+body{
+    background: radial-gradient(#fff9aa, rgb(241, 255, 38), #fff9aa);
+}
+
+.blankCard{
+    padding: 1rem 1rem 1rem 1rem;
+}
+/* styling kartu */
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253)!important;
+}
