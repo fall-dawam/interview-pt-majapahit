@@ -9,6 +9,7 @@ class CardUIinsertdata extends Component{
                 {Users.map((user, index) =>{
                     return(
                         <div key={index}>
+                            table number: {index + 1}
                             <div className="card border-danger">
                                 <div className="card-body">
                                     <ul className="list-group list-group-flush">
